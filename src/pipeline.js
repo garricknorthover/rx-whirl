@@ -23,4 +23,4 @@ const stream = interval(TICK).pipe(
   draw("•")
 );
 
-stream.subscribe(console.log);
+stream.subscribe(console.log);  

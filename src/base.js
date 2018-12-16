@@ -1,5 +1,5 @@
-export const TICK = 35
-export const LENGTH = 25
+export const TICK = 135
+export const LENGTH = 75
 
 export function gaussian (i) {
   const variance = 0.6
